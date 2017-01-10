@@ -1,0 +1,1 @@
+CREATE TABLE `ticaret`.`musteri` ( `mno` INT NOT NULL , `ad` VARCHAR(255) NOT NULL , `soyad` VARCHAR(255) NOT NULL , `dtarih` DATE NOT NULL , `tel` VARCHAR(50) NOT NULL ) ENGINE = InnoDB;
